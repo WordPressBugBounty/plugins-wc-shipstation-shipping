@@ -33,6 +33,8 @@ class ShippingMethod extends AbstractShippingMethod
 	protected $countriesProxy;
 	protected $customerProxy;
 	protected $sessionProxy;
+	protected $logger;
+	protected $productMatchingRule;
 
 	public function __construct($id, Adapter\AbstractAdapter $adapter, $instance_id = 0, $title = '', $description = '')
 	{
@@ -57,8 +59,6 @@ class ShippingMethod extends AbstractShippingMethod
 
 		$this->weightUnit = get_option('woocommerce_weight_unit');
 		$this->dimensionUnit = get_option('woocommerce_dimension_unit');
-
-		$this->parcelPacker = null;
 
 		$this->supports = array(
 			'settings',
