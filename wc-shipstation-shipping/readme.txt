@@ -2,9 +2,9 @@
 Contributors: OneTeamSoftware
 Tags: woocommerce, shipstation, cart, shipping, ebay, amazon, marketplace, woocommerce shipping, shipstation shipping, woocommerce shipstation shipping, cart shipping rate, shipping rate, shipstation integration
 Requires at least: 5.6
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.3
-Stable tag: 1.4.16
+Stable tag: 1.4.17
 
 Take your integration with ShipStation shipping service to the next level by displaying live shipping rates in the cart and checkout pages.
 
@@ -105,6 +105,8 @@ Please [Contact Us](https://1teamsoftware.com/contact-us "1TeamSoftware") and we
 == Screenshots ==
 
 == Changelog ==
+= 1.4.17 =
+* Updated compatibility
 = 1.4.16 =
 * Improved compatibility with PHP 8.2
 = 1.4.15 =
