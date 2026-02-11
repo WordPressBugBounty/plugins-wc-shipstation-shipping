@@ -1,10 +1,12 @@
 ﻿=== Multi-Carrier ShipStation Shipping Rates for WooCommerce ===
 Contributors: OneTeamSoftware
-Tags: woocommerce, shipstation, cart, shipping, ebay, amazon, marketplace, woocommerce shipping, shipstation shipping, woocommerce shipstation shipping, cart shipping rate, shipping rate, shipstation integration
+Tags: woocommerce, shipstation, shipping, marketplace, woocommerce shipping
 Requires at least: 5.6
 Tested up to: 6.8
 Requires PHP: 7.3
 Stable tag: 1.4.17
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Take your integration with ShipStation shipping service to the next level by displaying live shipping rates in the cart and checkout pages.
 
