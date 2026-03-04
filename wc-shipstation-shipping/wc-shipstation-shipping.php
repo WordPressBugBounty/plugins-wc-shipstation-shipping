@@ -3,8 +3,8 @@
  * Plugin Name: Multi-Carrier ShipStation Shipping for WooCommerce
  * Plugin URI: https://wordpress.org/plugins/wc-shipstation-shipping/
  * Description: Displays live ShipStation shipping rates at cart and checkout pages
- * Version: 1.4.17
- * Tested up to: 6.8
+ * Version: 1.4.18
+ * Tested up to: 6.9.1
  * Requires PHP: 7.3
  * Author: OneTeamSoftware
  * Author URI: http://oneteamsoftware.com/

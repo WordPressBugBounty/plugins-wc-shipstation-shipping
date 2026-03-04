@@ -2,9 +2,9 @@
 Contributors: OneTeamSoftware
 Tags: woocommerce, shipstation, shipping, marketplace, woocommerce shipping
 Requires at least: 5.6
-Tested up to: 6.8
+Tested up to: 6.9.1
 Requires PHP: 7.3
-Stable tag: 1.4.17
+Stable tag: 1.4.18
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -107,6 +107,8 @@ Please [Contact Us](https://1teamsoftware.com/contact-us "1TeamSoftware") and we
 == Screenshots ==
 
 == Changelog ==
+= 1.4.18 =
+* Updated compatibility
 = 1.4.17 =
 * Updated compatibility
 = 1.4.16 =
